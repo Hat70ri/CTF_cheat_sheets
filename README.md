@@ -12,5 +12,6 @@
 - [Forensics](https://trailofbits.github.io/ctf/forensics/) - Any challenge to examine and process a hidden piece of information out of static data files.
 - [CTF Katana](https://github.com/JohnHammond/ctf-katana) - A list of CTF cheat sheets and tips by John Hammond
 - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
+- [WEB CTF CheatSheet](https://github.com/w181496/Web-CTF-Cheatsheet#xss) - WEB CTF CheatSheet with a list of injection commands.
 
 <!-- tocstop -->
