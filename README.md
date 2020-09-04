@@ -2,5 +2,6 @@
 
 >Cheat sheets and stuff for CTF's
 
+---
 ##Contents
-
+<!-- toc -->
